@@ -1,5 +1,12 @@
 ## Introduction
-My website api server.
+A simple gin api server.
+
+## Dependencies
+- gin
+- gorm
+- gin-swagger
+- godotenv
+- ...
 
 ## Start
 ```bash
