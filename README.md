@@ -10,7 +10,12 @@ A simple gin api server.
 
 ## Start
 ```bash
-go run app/main.go
+# install
+go get
+# dev
+go run main.go
+# build
+go build main.go
 ```
 
 License
